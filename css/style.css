@@ -189,6 +189,8 @@ hidden when on wider screens. */
 }
 
 .gift-cards p {
+	padding-left: 1em;
+	padding-right: 1em;
 	text-align: center;
 	color: #fff;
 
